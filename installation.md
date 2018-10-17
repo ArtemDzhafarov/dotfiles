@@ -40,6 +40,10 @@
 - [Github Desktop](https://desktop.github.com/) - Available for Mac and Windows
 - [Gimp](https://www.gimp.org/)
 - [handbrake](https://handbrake.fr/) (video conv) win
+- [Postman](https://www.getpostman.com/) (Http requests)
+- [Sketch](https://www.sketchapp.com/)
+- [PyCharm](https://www.jetbrains.com/pycharm/) JetBrains Python IDE
+- [Sequel Pro](https://www.sequelpro.com/)
 
 
 # OS
