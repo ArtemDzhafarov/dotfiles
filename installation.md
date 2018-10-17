@@ -11,11 +11,7 @@
 
 ## default(Any OS)
 
-- [Google Chrome](https://www.google.com/chrome/)
-- [Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
-- [Google Drive](https://www.google.com/drive/)
 - [LibreOffice](https://ru.libreoffice.org/)
-- [Skype](https://www.skype.com)
 - [Spotify](https://www.spotify.com)
 - [TunnelBear (vpn, proxy)](https://www.tunnelbear.com/)
 - [Prepros](https://prepros.io/downloads)
@@ -34,8 +30,8 @@
 
 ## dev
 
-- [Atom](https://atom.io/)
-- [Cmder](http://cmder.net/)
+- [VS Code](https://code.visualstudio.com/)
+- [Cmder](http://cmder.net/) Windows terminal
 - [Git](https://git-scm.com/) - for GitHub/BitBucket
 - [Github Desktop](https://desktop.github.com/) - Available for Mac and Windows
 - [Gimp](https://www.gimp.org/)
@@ -50,3 +46,5 @@
 - Windows
 - Deb.(deb) [Linux Mint](http://www.linuxmint.com/) Mate | Cinnamon
 - Arch(rpm) [Antergos](http://antergos.com/)
+- Ubuntu
+- Manjaro
